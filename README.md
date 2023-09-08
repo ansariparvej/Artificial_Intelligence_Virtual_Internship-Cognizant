@@ -1,4 +1,4 @@
-# Cognizant: Artificial Intelligence Virtual Experience @ Forage
+## Cognizant: Artificial Intelligence Virtual Internship @ Forage
 
 
 Task_1: Exploratory Data Analysis
