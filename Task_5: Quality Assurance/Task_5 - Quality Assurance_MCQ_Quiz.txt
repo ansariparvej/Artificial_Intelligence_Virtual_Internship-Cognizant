@@ -1,0 +1,26 @@
+## MCQs with Solution ##
+
+[1] The accuracy of the predictions about the live data are not as good as the results that you showed     during the training of the model. Why do you think this is? 
+
+-> Option_3 : The model is underfit.
+
+[2] Can you suggest a way to improve the predictions on the live data? 
+
+-> Option_4 : Collect more rows of data to train the model with.
+
+[3] The client has offered some additional datasets that may be useful. Can you let us know which two datasets you think would be best to include in the model? 
+
+-> Option_1 : Weather, Deliveries
+
+[4] We would like to explore the possibility of using a more complex machine learning algorithm to see how it compares to the current random forest. Can you suggest one to try? 
+
+-> Option_2 : Neural Network
+
+[5] What would be a disadvantage of using the more complex model from the previous question, against the current random forest? 
+
+-> Option_3 : More difficult to explain algorithms results.
+
+
+[6] Can you suggest a way that we can optimise the performance of the current random forest algorithm? In particular, we want to know how we can improve the MAE of the current algorithm.
+
+-> Option_1 : Tune hyperparameters
